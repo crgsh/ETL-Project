@@ -1,0 +1,17 @@
+Extraction
+
+3 datasets from Kaggle and Data World. Based on county through all the States to 2015. 
+
+• Diversity Index from Kaggle. 
+• Unemployment from Kaggle. 
+• Median Income by county from Data World.
+
+
+Transformation
+
+Cleaning up the irrelevant variables.
+
+
+Load
+
+Transfer output into a Database. Create a database and tables to match the columns. Using MYSQL and then connect to the database using SQLAlchemy.
